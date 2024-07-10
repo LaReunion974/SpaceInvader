@@ -1,0 +1,18 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  text-align: center;
+}
+
+#canvas1 {
+  border: 5px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  translate: -50% -50%;
+  background: url("../assets/background.png");
+}
